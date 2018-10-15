@@ -1,1 +1,7 @@
 Introduction
+cd Sample-Repository
+git branch kin
+git checkout kin
+git add.
+git commit -m "kin wins"
+git push origin kin
